@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 // Package ptr provides helpers to convert basic types to pointers.
-package ptr // import "go.graysonkoonce.com/ptr"
+package ptr // import "breerly.github.io/test/ptr"
 
 // Bool converts a bool to a pointer
 func Bool(x bool) *bool {
